@@ -1,4 +1,4 @@
-package com.example.PlatzyTeachers;
+package platziteachers;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
